@@ -1,0 +1,48 @@
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+#container{
+    width: 1000px;
+    margin: 0 auto;
+    display: block;
+    background-color: aqua;
+}
+
+#one{ 
+    background-color: aqua;
+}
+
+.col1, .col2, .col3, .col4 {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    float: right;
+}
+
+.col1 {
+    background-color: red;
+    border: solid black 4px;
+}
+
+.col2{
+    background-color: green;
+    border: solid black 4px;
+}
+
+.col3{
+    background-color: blue;
+    border: solid black 4px;
+}
+
+.col4{
+    background-color: purple;
+    border: solid black 4px;
+}
+
+html{
+    border: 3px solid black;
+    background-color: rgb(215, 215, 91);
+}
